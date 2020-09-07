@@ -111,3 +111,23 @@
         margin-top: -1.9em;
     }
   }
+
+  @media (max-width: 356px) {
+    .cuadroDiv{
+        width: 160px;
+        font-size: 7px;
+    }
+    .titulo-h3{
+        font-size: 9px;
+    }
+    .carousel-inner, .carousel-caption {
+        height: 226px;      
+       }
+    #imgLogo {
+        width: 100px;
+        height: 99px;
+        margin-top: -1.9em;
+    }
+  }
+
+  
