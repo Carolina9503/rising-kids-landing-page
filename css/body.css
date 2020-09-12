@@ -130,4 +130,10 @@
     }
   }
 
+  @media (max-width: 320px) {
+    .carousel-inner, .carousel-caption {
+        height: 200px;      
+       } 
+  }
+
   
