@@ -112,16 +112,16 @@
     }
   }
 
-  @media (max-width: 356px) {
+  @media (max-width: 375px) {
     .cuadroDiv{
-        width: 160px;
-        font-size: 7px;
+        width: 200px;
+        font-size: 9px;
     }
     .titulo-h3{
         font-size: 9px;
     }
     .carousel-inner, .carousel-caption {
-        height: 226px;      
+        height: 252px;      
        }
     #imgLogo {
         width: 100px;
